@@ -1,0 +1,82 @@
+//
+//  BACommonConfigure.pch
+//  365
+//
+//  Created by imac on 2018/5/28.
+//  Copyright © 2018年 intj. All rights reserved.
+//
+
+#ifndef BACommonConfigure_pch
+#define BACommonConfigure_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#pragma mark - 头文件
+#import "Header.h"
+#import "BARequestManager.h"
+#import "MMProgressHUD.h"
+#import "UIResource.h"
+#import "BARequestManager.h"
+#import "UIScrollView+UITouchEvent.h"
+#import "UIScrollView+EmptyDataSet.h"
+#import "BATabBarControllerConfig.h"
+#import "NSString+DNUStringExt.h"
+#import "BABaseViewController.h"
+#import "BAWebViewController.h"
+#import "NSString+Extension.h"
+#import "UIView+Extension.h"
+#import "MMProgressHUD.h"
+#import "Toast+UIView.h"
+#import "MJExtension.h"
+#import "UIColor+Hex.h"
+#import "AppDelegate.h"
+#import "UIResource.h"
+#import "Device.h"
+#import "NetHeader.h"
+#import "BANavigationController.h"
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#pragma mark - 常用宏
+//弱引用/强引用  可配对引用在外面用MPWeakSelf(self)，block用MPStrongSelf(self)  也可以单独引用在外面用MPWeakSelf(self) block里面用weakself
+
+#define BAWeakSelf(type)  __weak typeof(type) weak##type = type
+
+/**
+ *  属性转字符串
+ */
+#define BAKeyPath(obj, key) @(((void)obj.key, #key))
+
+//是否是空对象
+#define BAIsEmpty(_object) (_object == nil \
+|| [_object isKindOfClass:[NSNull class]] \
+|| ([_object respondsToSelector:@selector(length)] && [(NSData *)_object length] == 0) \
+|| ([_object respondsToSelector:@selector(count)] && [(NSArray *)_object count] == 0))
+
+//不同屏幕尺寸字体适配
+#define kScreenWidthRatio  (UIScreen.mainScreen.bounds.size.width / 375.0)
+#define kScreenHeightRatio (UIScreen.mainScreen.bounds.size.height / 667.0)
+#define AdaptedWidth(x)  ceilf((x) * kScreenWidthRatio)
+#define AdaptedHeight(x) ceilf((x) * kScreenHeightRatio)
+#define AdaptedFontSize(R)     [UIFont systemFontOfSize:AdaptedWidth(R)]
+
+//由角度转换弧度
+#define kDegreesToRadian(x)      (M_PI * (x) / 180.0)
+//由弧度转换角度
+#define kRadianToDegrees(radian) (radian * 180.0) / (M_PI)
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#pragma mark - 调试
+
+#ifdef DEBUG
+#define NSLogFunc NSLog(@"=====Begin==========\n FILE: %@\n FUNC: %s\n LINE: %d\n", [NSString stringWithUTF8String:__FILE__].lastPathComponent, __PRETTY_FUNCTION__, __LINE__)
+#else
+#define NSLogFunc
+#endif
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#endif /* BACommonConfigure_pch */
