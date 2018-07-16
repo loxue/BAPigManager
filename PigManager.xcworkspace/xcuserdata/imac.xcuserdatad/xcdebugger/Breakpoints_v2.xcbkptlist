@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x65b0;&#x79cd;&#x732a;/BAAddBreedingPigController.m"
+            timestampString = "553398949.7028461"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "-saveTapped:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x65b0;&#x79cd;&#x732a;/BAAddBreedingPigController.m"
+            timestampString = "553398949.745684"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "-saveTapped:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x65b0;&#x79cd;&#x732a;/BAAddBreedingPigController.m"
+            timestampString = "553398949.745986"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "-saveTapped:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x65b0;&#x79cd;&#x732a;/BAAddBreedingPigController.m"
+            timestampString = "553398949.7462749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "-textFieldDidBeginEditing:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x65b0;&#x79cd;&#x732a;/BAAddBreedingPigController.m"
+            timestampString = "553398949.746551"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "-textFieldDidBeginEditing:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x65b0;&#x79cd;&#x732a;/BAAddBreedingPigController.m"
+            timestampString = "553398949.746841"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "-textFieldDidBeginEditing:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x65b0;&#x79cd;&#x732a;/BAAddBreedingPigController.m"
+            timestampString = "553398949.747123"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "-textFieldDidBeginEditing:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x65b0;&#x79cd;&#x732a;/BAAddBreedingPigController.m"
+            timestampString = "553398949.747402"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "-textFieldDidBeginEditing:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BAAddBreedingPigController textFieldDidBeginEditing:]"
+                  moduleName = "PigManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/BA_365Guarn/PigManager/Controllers/HomeController/DataEntry-%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5/Controllers/%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%A7%8D%E7%8C%AA/BAAddBreedingPigController.m"
+                  timestampString = "553398952.479526"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "2814">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__55-[BAAddBreedingPigController textFieldDidBeginEditing:]_block_invoke.249"
+                  moduleName = "PigManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/BA_365Guarn/PigManager/Controllers/HomeController/DataEntry-%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5/Controllers/%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%A7%8D%E7%8C%AA/BAAddBreedingPigController.m"
+                  timestampString = "553398952.481701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x79cd;&#x732a;&#x65b0;&#x52a8;&#x820d;/BABreedingPigNewBuildingController.m"
+            timestampString = "553166213.1840039"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "-deleteTapped:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BABreedingPigNewBuildingController deleteTapped:]"
+                  moduleName = "PigManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/BA_365Guarn/PigManager/Controllers/HomeController/DataEntry-%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5/Controllers/%E6%B7%BB%E5%8A%A0%E7%A7%8D%E7%8C%AA%E6%96%B0%E5%8A%A8%E8%88%8D/BABreedingPigNewBuildingController.m"
+                  timestampString = "553398952.48683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__51-[BABreedingPigNewBuildingController deleteTapped:]_block_invoke"
+                  moduleName = "PigManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/BA_365Guarn/PigManager/Controllers/HomeController/DataEntry-%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5/Controllers/%E6%B7%BB%E5%8A%A0%E7%A7%8D%E7%8C%AA%E6%96%B0%E5%8A%A8%E8%88%8D/BABreedingPigNewBuildingController.m"
+                  timestampString = "553398952.4890341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x79cd;&#x732a;&#x65b0;&#x52a8;&#x820d;/BABreedingPigNewBuildingController.m"
+            timestampString = "553166213.1841"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "-deleteTapped:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x79cd;&#x732a;&#x65b0;&#x52a8;&#x820d;/BABreedingPigNewBuildingController.m"
+            timestampString = "553166213.184171"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "-deleteTapped:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x79cd;&#x732a;&#x65b0;&#x52a8;&#x820d;/BABreedingPigNewBuildingController.m"
+            timestampString = "553166213.184236"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "-deleteTapped:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x79cd;&#x732a;&#x65b0;&#x52a8;&#x820d;/BABreedingPigNewBuildingController.m"
+            timestampString = "553166213.184298"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "-getPigHouseData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x79cd;&#x732a;&#x65b0;&#x52a8;&#x820d;/BABreedingPigNewBuildingController.m"
+            timestampString = "553166213.184355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "-getPigHouseData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x79cd;&#x732a;&#x65b0;&#x52a8;&#x820d;/BABreedingPigNewBuildingController.m"
+            timestampString = "553166213.18441"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "-getPigHouseData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x6dfb;&#x52a0;&#x79cd;&#x732a;&#x65b0;&#x52a8;&#x820d;/BABreedingPigNewBuildingController.m"
+            timestampString = "553166213.184466"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "-getPigHouseData:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BABreedingPigNewBuildingController getPigHouseData:]"
+                  moduleName = "PigManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/BA_365Guarn/PigManager/Controllers/HomeController/DataEntry-%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5/Controllers/%E6%B7%BB%E5%8A%A0%E7%A7%8D%E7%8C%AA%E6%96%B0%E5%8A%A8%E8%88%8D/BABreedingPigNewBuildingController.m"
+                  timestampString = "553398952.520241"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "793">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__54-[BABreedingPigNewBuildingController getPigHouseData:]_block_invoke"
+                  moduleName = "PigManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/BA_365Guarn/PigManager/Controllers/HomeController/DataEntry-%E6%95%B0%E6%8D%AE%E5%BD%95%E5%85%A5/Controllers/%E6%B7%BB%E5%8A%A0%E7%A7%8D%E7%8C%AA%E6%96%B0%E5%8A%A8%E8%88%8D/BABreedingPigNewBuildingController.m"
+                  timestampString = "553398952.522594"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x91c7;&#x7cbe;&#x6570;&#x636e;&#x5f55;&#x5165;/BASemenCollectionDataController.m"
+            timestampString = "553166213.1845241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "-loadSemenCollectionData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x91c7;&#x7cbe;&#x6570;&#x636e;&#x5f55;&#x5165;/BASemenCollectionDataController.m"
+            timestampString = "553166215.48725"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "-loadSemenCollectionData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PigManager/Controllers/HomeController/DataEntry-&#x6570;&#x636e;&#x5f55;&#x5165;/Controllers/&#x91c7;&#x7cbe;&#x6570;&#x636e;&#x5f55;&#x5165;/BASemenCollectionDataController.m"
+            timestampString = "553166216.712201"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "-loadSemenCollectionData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
